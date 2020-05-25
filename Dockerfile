@@ -7,4 +7,4 @@ RUN pip3 install keras
 RUN pip3 install pillow 
 
 
-CMD ["python3","/mlops1/file1.py"]
+CMD ["python3","/home/spidohemant/Desktop/projects/mlops1/file1.py"]
