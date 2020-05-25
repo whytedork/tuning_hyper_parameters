@@ -1,18 +1,18 @@
-### Problem : Tuning Hyper Parameters
+## Problem : Tuning Hyper Parameters
 
 # Blog-Link  https://teknoboost.wordpress.com/2020/05/25/tuning-hyper-parameters-using-mlops-machine-learning-on-devops/
 
-# What is Hyper Parameters in ML ?
+### What is Hyper Parameters in ML ?
 
 These are adjustable parameters that must be tuned in order to obtain a model with optimal performance.
 
-# What is MLOps ?
+### What is MLOps ?
 
 MLOps is a recent term that describes how to apply DevOps principles to automating the building, testing, and deployment of ML systems.
 “A software engineering approach in which a cross-functional team produces machine learning applications based on code, data, and models in small and safe increments that can be reproduced and reliably released at any time, in short adaptation cycles.”
 
 
-# Problem Statement
+### Problem Statement
 
 Create container image that’s has Python3 and Keras or numpy installed using dockerfile
 When we launch this image, it should automatically starts train the model in the container.
